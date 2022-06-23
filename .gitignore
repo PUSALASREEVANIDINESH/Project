@@ -1,0 +1,4 @@
+#Below 2 files will not be added to local repository 
+.DS_Store
+#Comments
+file3.txt
